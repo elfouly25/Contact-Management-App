@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:youremail@example.com)
+Blal Elfouly - blal.morsy2002@gmail.com
 
 Project Link: [https://github.com/your-username/ContactManagerApp](https://github.com/your-username/ContactManagerApp)
 
