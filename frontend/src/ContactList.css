@@ -1,0 +1,85 @@
+/* ContactList.css */
+.contact-list-title {
+  font-weight: bold; /* Make the title bold */
+  text-align: center; /* Center the title */
+}
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-y: scroll; /* Enable vertical scrolling */
+}
+
+.contact-list-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh; /* Ensure container covers full viewport height */
+}
+
+.contact-list {
+  max-height: 70vh; /* Adjust height as needed */
+  width: 100%;
+  overflow-y: auto; /* Enable vertical scrolling within the contact list */
+  padding: 20px;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  
+}
+
+.contact-card {
+  width: 500px; /* Set a fixed width for each contact card */
+  padding: 20px;
+  background-color: #f0f8ff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.contact-info {
+  margin-bottom: 10px; /* Add some margin between each field */
+}
+
+.contact-info p, .contact-info input {
+  margin: 5px 0;
+  text-align: left; /* Align text to the left */
+}
+
+.contact-actions {
+  margin-top: auto; /* Push actions to the bottom of the card */
+  display: flex;
+  justify-content: flex-end; /* Align buttons to the right */
+  gap: 10px; /* Add some space between buttons */
+}
+
+.contact-actions button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.contact-actions button:hover {
+  background-color: #0056b3;
+}
+
+.create-new-contact-button {
+  align-self: flex-end; /* Align the button to the bottom right within the contact list container */
+  margin-top: 20px; /* Add some space above the button */
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.create-new-contact-button:hover {
+  background-color: #0056b3;
+}
