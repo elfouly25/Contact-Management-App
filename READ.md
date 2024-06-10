@@ -1,6 +1,6 @@
 # Contact Management App
 
-🚀 **Contact Management App** is a powerful tool designed for efficient contact management. This application allows you to create, update, view, and delete contacts seamlessly. The backend is built using Python & Flask, ensuring robust API request handling, while the frontend is developed with React for a dynamic user interface.
+**Contact Management App** is a powerful tool designed for efficient contact management. This application allows you to create, update, view, and delete contacts seamlessly. The backend is built using Python & Flask, ensuring robust API request handling, while the frontend is developed with React for a dynamic user interface.
 
 ## Features
 
