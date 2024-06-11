@@ -1,6 +1,6 @@
 # Contact Management App
 
-🚀 **Contact Management App** is a powerful tool designed for efficient contact management. This application allows you to create, update, view, and delete contacts seamlessly. The backend is built using Python & Flask, ensuring robust API request handling, while the frontend is developed with React for a dynamic user interface.
+**Contact Management App** is a powerful tool designed for efficient contact management. This application allows you to create, update, view, and delete contacts seamlessly. The backend is built using Python & Flask, ensuring robust API request handling, while the frontend is developed with React for a dynamic user interface.
 
 ## Features
 
@@ -34,7 +34,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/ContactManagerApp.git
+    git clone https://github.com/elfouly25/ContactManagerApp.git
     cd ContactManagerApp
     ```
 
@@ -94,7 +94,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [Your Email](mailto:youremail@example.com)
+Blal Elfouly - blal.morsy2002@gmail.com
 
-Project Link: [https://github.com/your-username/ContactManagerApp](https://github.com/your-username/ContactManagerApp)
+Project Link: https://github.com/elfouly25/Contact-Management-App
 
