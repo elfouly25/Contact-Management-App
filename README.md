@@ -96,5 +96,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Blal Elfouly - blal.morsy2002@gmail.com
 
-Project Link: [[https://github.com/your-username/ContactManagerApp](https://github.com/your-username/ContactManagerApp)](https://github.com/elfouly25/Contact-Management-App)
+Project Link: (https://github.com/elfouly25/Contact-Management-App)
 
